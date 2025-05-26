@@ -1,4 +1,4 @@
-# Computer Vision Project Progress Report (50%)
+# Computer Vision Project Progress Report (25%)
 
 ## Project Name
 **Pendeteksi Penyakit Daun Mangga**
@@ -78,6 +78,6 @@ Dengan kata lain, proyek ini tidak hanya menggunakan CNN sebagai algoritma, teta
 ---
 
 ## 📈 Progress Saat Ini
-- Progres Proyek: **50%**
+- Progres Proyek: **25%**
 - Model CNN telah mulai dikembangkan dan diuji dengan dataset awal dari Kaggle.
 - Proses preprocessing dan augmentasi gambar sedang dilakukan.
